@@ -1,0 +1,2 @@
+Construct	P1_helix_indix_1	P1_helix_indix_2	Sequence	Structure	AT_helix_indix_1	AT_helix_indix_2	Sequence	Structure	Mg	Alernative_AT	number_of_P1_bps	number_of_AT_bps
+Aptamer_partial	24:25	90:91	CC*GG	((*))	0:0	0:0	*	*	Y	*	2	0

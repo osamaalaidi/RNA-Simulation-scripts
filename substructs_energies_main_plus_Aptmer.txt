@@ -1,0 +1,2 @@
+Construct	Mean B/A	Standard deviation B/A	Complex conc. [AB]	RNA conc. [B]	SAM conc. [A]	Ka= [AB]/[A]x[B]	Kd = 1/Ka	dG0= -RTxln(Ka)	dG0= RTxln(Kd)	dG0 (non-specific)	dG0 (specific)
+Aptamer_partial	9.82	0.94	8.982E-08	2.910E-06	1.018E-08	3.031E+06	3.300E-07	-8.28	-8.28	0.0	-8.28
